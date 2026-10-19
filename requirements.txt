@@ -1,0 +1,8 @@
+pypdf>=4.0
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+numpy
+pandas
+requests
+jupyter
+matplotlib
